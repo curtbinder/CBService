@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CBServiceActivity!</string>
+    <string name="app_name">CBService</string>
+    <string name="titleServiceStart">Start Service</string>
+    <string name="titleServiceStop">Service Stop</string>
+
+</resources>
